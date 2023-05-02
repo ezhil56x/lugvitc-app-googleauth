@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707449640597",
+    "project_id": "lugvitc-app-2a599",
+    "storage_bucket": "lugvitc-app-2a599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707449640597:android:fd5c2bf39809744ad92d9c",
+        "android_client_info": {
+          "package_name": "org.lugvitc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707449640597-a72qfmkokeje9aehe6a4q6si80uo1uv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.lugvitc.app",
+            "certificate_hash": "8ebd5532c4029b42b2bed210613b92a5b9129582"
+          }
+        },
+        {
+          "client_id": "707449640597-ehu9b9bsgpq525v9eo9c4b6rkaemi9tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTpS_z8AAdi9_VV4wvGKwd3XJ6QiF1Ojs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707449640597-998k0mplsbseap1rcuk53aoq4nfo9iak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
